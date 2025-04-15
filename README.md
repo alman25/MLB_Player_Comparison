@@ -19,7 +19,7 @@ school details – information on educational institutions
 
 The project is organized into four core analytical sections, each addressing specific business and analytical questions commonly relevant to sports analytics, talent scouting, and historical performance evaluations:
 
-### Part I School Analysis
+### Part I (School Analysis)
 
 Identified the number of schools that produced MLB players by decade
 Ranked top schools by player output overall and per decade
