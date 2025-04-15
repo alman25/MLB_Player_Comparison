@@ -2,7 +2,7 @@
 
 - [About this project](#about-this-project)
 - [The database includes four key tables](#the-database-includes-four-key-tables)
-- [Part I - School Analysis](#part-i-school-analysis)
+- [Part I School Analysis](#part-i-school-analysis)
 - [Part II: Salary Analysis](#part-ii:-salary-analysis)
 - [Part III: Player Career Analysis](#part-iii:-player-career-analysis)
 - [Part IV: Player Comparison Analysis](#part-iv:-player-comparison-analysis)
@@ -19,7 +19,7 @@ school details – information on educational institutions
 
 The project is organized into four core analytical sections, each addressing specific business and analytical questions commonly relevant to sports analytics, talent scouting, and historical performance evaluations:
 
-### Part I - School Analysis
+### Part I School Analysis
 
 Identified the number of schools that produced MLB players by decade
 Ranked top schools by player output overall and per decade
