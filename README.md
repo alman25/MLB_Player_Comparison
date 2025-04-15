@@ -2,7 +2,7 @@
 
 - [About this project](#about-this-project)
 - [The database includes four key tables](#the-database-includes-four-key-tables)
-- [Part I School Analysis](#part-i-school-analysis)
+- [Part I (School Analysis)](#part-i-(school-analysis))
 - [Part II: Salary Analysis](#part-ii:-salary-analysis)
 - [Part III: Player Career Analysis](#part-iii:-player-career-analysis)
 - [Part IV: Player Comparison Analysis](#part-iv:-player-comparison-analysis)
