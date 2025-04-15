@@ -3,9 +3,9 @@
 - [About this project](#about-this-project)
 - [The database includes four key tables](#the-database-includes-four-key-tables)
 - [Part I: School Analysis](#part-i-school-analysis)
-- [Part II: Salary Analysis](#part-ii:-salary-analysis)
-- [Part III: Player Career Analysis](#part-iii:-player-career-analysis)
-- [Part IV: Player Comparison Analysis](#part-iv:-player-comparison-analysis)
+- [Part II: Salary Analysis](#part-ii-salary-analysis)
+- [Part III: Player Career Analysis](#part-iii-player-career-analysis)
+- [Part IV: Player Comparison Analysis](#part-iv-player-comparison-analysis)
 
 ### About this project
 This SQL portfolio project showcases a comprehensive analysis of Major League Baseball (MLB) player data from the Sean Lahman Baseball Database, covering the period from 1971 to 2014. The project was developed in MySQL Workbench, leveraging structured queries and advanced SQL techniques to extract meaningful insights from complex relational data.
